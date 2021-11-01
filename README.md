@@ -2,9 +2,7 @@ Sonic Jump
 
 Ferramentas utilizadas: 
 
-HTML ; 
-css ; 
-javaScript.
+HTML, CSS, JavaScript.
 
 Descrição do Projeto :
 
